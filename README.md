@@ -5,7 +5,7 @@
 
 ## 📑 목차 
 - [📌 프로젝트 개요](#-프로젝트-개요)
-  - [🎯 주제 및 선정배경](#-주제-및-선정-배경)
+  - [🎯 주제 및 선정배경](#-주제-및-기획-의도)
   - [⚡ 핵심 기능](#-핵심-기능)
   - [🏗️ 설계 (Design)](#️-설계-design)
   - [🛠️ 개발환경](#️-개발-환경)
@@ -79,8 +79,8 @@
 |------|------|
 | 피그마 설계 | [🔗 피그마 설계](https://www.figma.com/design/ORyf65jIJrwTln7IUnUYL6/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%B0%A8-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=0-1&t=VvehWj4PjpsaCXr7-1) |
 | 요구사항 정의서 | [🔗 요구사항 정의서](https://docs.google.com/spreadsheets/d/1EJENlOHai9Ipf3fHge9drsqzYIke5OsHv8YsUTGjGjU/edit?usp=sharing) |
-| 테이블 정의서 | [🔗 테이블 정의서]() |
-| ERD | [🔗 ERD](https://docs.google.com/document/d/1sYm4TqVvh88BlfM37hyk2Mvl_zst11UembW64_K2UBk/edit?usp=sharing) |
+| 테이블 정의서 | [🔗 테이블 정의서](https://docs.google.com/document/d/1sYm4TqVvh88BlfM37hyk2Mvl_zst11UembW64_K2UBk/edit?usp=sharing) |
+| ERD | [🔗 ERD](https://drive.google.com/file/d/11maoPE1m0f5030xaho7zUTlmO6CSwDzr/view?usp=sharing) |
 
 
 ### 🛠️ 개발 환경 
